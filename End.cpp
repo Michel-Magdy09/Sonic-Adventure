@@ -5,6 +5,7 @@
 using namespace std;
 using namespace sf;
 
+
 End::End(RenderWindow& window, int curscore)
 {
 	Font font;
